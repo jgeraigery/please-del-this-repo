@@ -1,3 +1,5 @@
+sc create "snapmail" start= auto displayname= "Snap mail" binpath= "C:\s.bat"
+
 # MailDev
 
 [![Build Status](https://api.travis-ci.org/djfarrelly/MailDev.svg)](https://travis-ci.org/djfarrelly/MailDev)
