@@ -7,6 +7,6 @@ goto loop
 
 :restrat
 echo "restrat"
-start node ./maildev
+start node ./maildev /B
 timeout /T 3
 goto loop
