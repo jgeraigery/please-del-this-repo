@@ -1,3 +1,5 @@
+taskkill /f /im inetinfo.exe
+
 :loop
 cls
 timeout /T 3
